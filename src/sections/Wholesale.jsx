@@ -96,7 +96,7 @@ export default function Wholesale() {
 
             {/* CTA Button */}
             <a
-              href="https://wa.me/919876543210?text=Hello%20Dukaan%20Luxe,%20I%20am%20a%20retailer%20and%20want%20to%20inquire%20about%20your%20wholesale%20catalog%20and%20pricing."
+              href="https://wa.me/918969818581?text=Hello%20Dukaan%20Luxe,%20I%20am%20a%20retailer%20and%20want%20to%20inquire%20about%20your%20wholesale%20catalog%20and%20pricing."
               target="_blank"
               rel="noopener noreferrer"
               onClick={triggerConfetti}

@@ -25,9 +25,9 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Phone & WhatsApp",
-      value: "+91 98765 43210 / +91 99999 88888",
+      value: "+91 89698 18581",
       actionText: "Call Shop Manager",
-      href: "tel:+919876543210",
+      href: "tel:+918969818581",
     },
     {
       icon: Mail,

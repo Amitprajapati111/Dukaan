@@ -48,7 +48,7 @@ export default function FloatingActions() {
       <motion.a
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
-        href="tel:+919876543210"
+        href="tel:+918969818581"
         className="p-3 bg-neutral-900 dark:bg-neutral-800 text-gold-400 rounded-full shadow-lg border border-neutral-800 dark:border-neutral-700 hover:text-gold-300 flex items-center justify-center relative hover-shine"
         aria-label="Call Store"
       >
@@ -61,7 +61,7 @@ export default function FloatingActions() {
       <motion.a
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
-        href="https://wa.me/919876543210?text=Hello%20Dukaan%20Luxe,%20I'm%20interested%20in%20your%20latest%20premium%20collection!"
+        href="https://wa.me/918969818581?text=Hello%20Dukaan%20Luxe,%20I'm%20interested%20in%20your%20latest%20premium%20collection!"
         target="_blank"
         rel="noopener noreferrer"
         className="p-3.5 bg-emerald-600 text-white rounded-full shadow-lg hover:bg-emerald-500 flex items-center justify-center relative overflow-hidden"

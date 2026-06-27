@@ -104,7 +104,7 @@ export default function Trending() {
       colors: ["#C5A880", "#DFBA73"]
     });
     const message = `Hello Dukaan Luxe, I'm interested in wholesale pricing for "${productName}". Please share catalog details.`;
-    const whatsappUrl = `https://wa.me/919876543210?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/918969818581?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, "_blank");
   };
 
